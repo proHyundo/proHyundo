@@ -1,11 +1,10 @@
-## 👋 Hi, I’m @proHyundo
+## 👋 Hi! I'm a talkative developer HyunDo Song :)
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 🎓 Graduated from computer science at  <img src="https://img.shields.io/badge/KNOU(Korea_National_Open_University)-005FF9?style=flat-square&logoColor=white"/>
+- 😎 I like to be in constant communication to develop the product.
+- 🌱 The latest I'm learning is `OOO`
+- 🎓 Graduated in Computer Science <img src="https://img.shields.io/badge/KNOU(Korea_National_Open_University)-005FF9?style=flat-square&logoColor=white"/>
 
-- 📫 How to reach me <img src="https://img.shields.io/badge/guseh08@knou.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/https://open.kakao.com/o/-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/>
+- 📫 Contact me <a href="guseh08@knou.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://open.kakao.com/o/sbChPHgg"><img src="https://img.shields.io/badge/KakaoChat-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/></a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
