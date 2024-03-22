@@ -4,7 +4,7 @@
 - 🌱 The latest I'm learning is `OOO`
 - 🎓 Graduated in Computer Science <img src="https://img.shields.io/badge/KNOU(Korea_National_Open_University)-005FF9?style=flat-square&logoColor=white"/>
 
-- 📫 Contact me <a href="guseh08@knou.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://open.kakao.com/o/sbChPHgg"><img src="https://img.shields.io/badge/KakaoChat-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/></a>
+- 📫 Contact me <a href="mailto:guseh08@knou.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://open.kakao.com/o/sbChPHgg"><img src="https://img.shields.io/badge/KakaoChat-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/></a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
