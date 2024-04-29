@@ -86,6 +86,23 @@ git commit -m "update: I'm a talkative Web Developer, looking for job"
 
 <h3>
   <div align=center>
+    🚀 My featured projects
+  </div>
+</h3>
+<div align=center>
+  <p>
+    <b>Babpool</b> (SWYP 3th: 1st place award 🏆)
+  </p>
+  <p>
+    <b>BookmarkTool</b> (personal)
+  </p>
+</div>
+
+</br>
+</br>
+
+<h3>
+  <div align=center>
     🎓 Graduated in Computer Science 
   </div>
 </h3>
@@ -130,3 +147,4 @@ You can click the Preview link to take a look at your changes.
 #### 😄 Here's what my team says about me. 
 ![Evaluation_proHyundo](https://github.com/proHyundo/proHyundo/assets/128882585/9b094ce9-f3cd-438e-afd4-754075926ac5)
 --->
+
