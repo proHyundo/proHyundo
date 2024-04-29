@@ -5,16 +5,20 @@
 
 #### 🌱 The latest I'm learning is `OOO`
 
-- Velog Link : 
+- Velog Link : https://velog.io/@dev_hyun
+<a href="https://velog.io/@dev_hyun">
+<img src="https://github.com/proHyundo/proHyundo/assets/128882585/f8d07e08-db3c-4331-9934-f216b50b5f0e" alt="Relative link to logo" width="30%" />
+</a>
 
 #### 🎓 Graduated in Computer Science 
 
 - Grade point average : img
 
+<!---
 #### 😄 Here's what my team says about me. 
 
 ![Evaluation_proHyundo](https://github.com/proHyundo/proHyundo/assets/128882585/9b094ce9-f3cd-438e-afd4-754075926ac5)
-
+--->
 
 #### 📫 Contact me 
 
