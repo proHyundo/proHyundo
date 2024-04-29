@@ -16,7 +16,9 @@ git commit -m "update: I'm a talkative Web Developer, looking for job"
   </div>
 </h3>
 <div align=center>
-  in constant communication to develop the product.
+  <i>
+    in constant communication to develop the product.
+  </i>
 </div>
 
 </br>
@@ -28,8 +30,8 @@ git commit -m "update: I'm a talkative Web Developer, looking for job"
   </div>
 </h3>
 <div align=center>
-  <a href="https://velog.io/@dev_hyun">
-    https://velog.io/@dev_hyun
+  <a href="https://velog.io/@dev_hyun" target="_blank">
+    velog link
 <!--     <img src="https://github.com/proHyundo/proHyundo/assets/128882585/f8d07e08-db3c-4331-9934-f216b50b5f0e" alt="Relative link to logo" width="30%" /> -->
   </a>
 </div>
