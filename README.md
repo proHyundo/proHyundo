@@ -115,6 +115,12 @@ git commit -m "update: I'm a talkative Web Developer, looking for job"
 
 <div align=center>
   
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skuniv)](https://solved.ac/skuniv/)
+  
+</div>
+</br>
+<div align=center>
+  
   [![코드트리|실력진단-hyun](https://banner.codetree.ai/v1/banner/hyun)](https://www.codetree.ai/profiles/hyun)
   
 </div>
