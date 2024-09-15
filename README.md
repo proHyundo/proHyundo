@@ -24,6 +24,7 @@ git commit -m "update: I'm a talkative Web Developer, looking for job"
 </br>
 </br>
 
+<!--
 <h3>
   <div align=center>
     🌱 Check out my blog: What I'm learning
@@ -32,9 +33,9 @@ git commit -m "update: I'm a talkative Web Developer, looking for job"
 <div align=center>
   <a href="https://velog.io/@dev_hyun" target="_blank">
     velog link
-<!--     <img src="https://github.com/proHyundo/proHyundo/assets/128882585/f8d07e08-db3c-4331-9934-f216b50b5f0e" alt="Relative link to logo" width="30%" /> -->
+    <img src="https://github.com/proHyundo/proHyundo/assets/128882585/f8d07e08-db3c-4331-9934-f216b50b5f0e" alt="Relative link to logo" width="30%" />
   </a>
-</div>
+</div> -->
 
 </br>
 </br>
@@ -107,7 +108,7 @@ git commit -m "update: I'm a talkative Web Developer, looking for job"
   </div>
 </h3>
 <div align=center>
-  Grade point average : 4.3 / 4.5
+  Grade point average : 4.4 / 4.5
 </div>
 
 </br>
