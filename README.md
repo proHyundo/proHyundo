@@ -24,18 +24,31 @@ git commit -m "update: I'm a talkative Web Developer, looking for job"
 </br>
 </br>
 
-<!--
+
 <h3>
   <div align=center>
     🌱 Check out my blog: What I'm learning
   </div>
 </h3>
 <div align=center>
-  <a href="https://velog.io/@dev_hyun" target="_blank">
-    velog link
-    <img src="https://github.com/proHyundo/proHyundo/assets/128882585/f8d07e08-db3c-4331-9934-f216b50b5f0e" alt="Relative link to logo" width="30%" />
-  </a>
-</div> -->
+  <ul>
+    <li>
+      <a href="https://velog.io/@dev_hyun/GCP-VM-SSH-접속오류-해결과정" target="_blank">
+      Troubleshooting GCP VM SSH Connection Error (Cause: Disk no space)
+    </a>
+    </li>
+    <li>
+      <a href="https://velog.io/@dev_hyun/id-채번-전략-trade-off" target="_blank">
+      Why randomized identification id instead of Auto_Increment
+    </a>
+    </li>
+    <li>
+      <a href="https://velog.io/@dev_hyun/일일-요청-수-2000건-봇-간단하게-방어하기" target="_blank">
+      2,000 -> 110 requests per day, restricting bot access
+    </a>
+    </li>
+  </ul>
+</div>
 
 </br>
 </br>
@@ -93,9 +106,6 @@ git commit -m "update: I'm a talkative Web Developer, looking for job"
 <div align=center>
   <p>
     <b>Babpool</b> (SWYP 3th: 1st place award 🏆)
-  </p>
-  <p>
-    <b>BookmarkTool</b> (personal)
   </p>
 </div>
 
