@@ -124,18 +124,30 @@ git commit -m "update: I'm a talkative Web Developer, looking for job"
 </br>
 </br>
 
+<h3>
+  <div align=center>
+     🥚 Algorithm Test
+  </div>
+</h3>
 <div align=center>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skuniv)](https://solved.ac/skuniv/)
   
 </div>
 </br>
-<div align=center>
+<!-- <div align=center>
   
   [![코드트리|실력진단-hyun](https://banner.codetree.ai/v1/banner/hyun)](https://www.codetree.ai/profiles/hyun)
   
-</div>
+</div> -->
 </br>
+
+<h3>
+  <div align=center>
+     🏃‍♂️‍➡️ Primary languages
+  </div>
+</h3>
+
 <div align=center>
   
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proHyundo&layout=compact&theme=dracula)
