@@ -33,17 +33,17 @@ git commit -m "update: I'm a talkative Web Developer, looking for job"
 <div align=center>
   <ul>
     <li>
-      <a href="https://velog.io/@dev_hyun/GCP-VM-SSH-접속오류-해결과정" target="_blank">
+      <a href="https://velog.io/@dev_hyun/GCP-VM-SSH-접속오류-해결과정" onclick="window.open(this.href,'_blank');return false;">
       Troubleshooting GCP VM SSH Connection Error (Cause: Disk no space)
     </a>
     </li>
     <li>
-      <a href="https://velog.io/@dev_hyun/id-채번-전략-비교-및-tsid-도입" target="_blank">
+      <a href="https://velog.io/@dev_hyun/id-채번-전략-비교-및-tsid-도입" onclick="window.open(this.href,'_blank');return false;">
       Why randomized identification id instead of Auto_Increment
     </a>
     </li>
     <li>
-      <a href="https://velog.io/@dev_hyun/일일-요청-수-2000건-봇-간단하게-방어하기" target="_blank">
+      <a href="https://velog.io/@dev_hyun/일일-요청-수-2000건-봇-간단하게-방어하기" onclick="window.open(this.href,'_blank');return false;">
       2,000 -> 110 requests per day, restricting bot access
     </a>
     </li>
