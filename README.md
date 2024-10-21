@@ -38,7 +38,7 @@ git commit -m "update: I'm a talkative Web Developer, looking for job"
     </a>
     </li>
     <li>
-      <a href="https://velog.io/@dev_hyun/id-채번-전략-trade-off" target="_blank">
+      <a href="https://velog.io/@dev_hyun/id-채번-전략-비교-및-tsid-도입" target="_blank">
       Why randomized identification id instead of Auto_Increment
     </a>
     </li>
