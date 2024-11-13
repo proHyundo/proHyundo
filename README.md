@@ -5,7 +5,7 @@
 </h1>
 
 ```bash
-git commit -m "update: I'm a talkative Web Developer, looking for job"
+git commit -m "update: I'm a talkative Backend Developer, working at an APIM solution company"
 ```
 
 </br>
